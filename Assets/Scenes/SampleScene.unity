@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 135195420}
-  gravityStrength: 9.81
+  gravityStrength: 10.5
   jumpStrength: 5
   walkSpeed: 7.5
   runSpeed: 10
