@@ -1,3 +1,7 @@
+/*
+A lot of this code was inspired by Rytech's YouTube video "SMOOTH FIRST PERSON MOVEMENT in Unity"
+Other parts were inspired by previous labs guides, previous revisions of this code, and various other online videos/threads.
+*/
 using UnityEngine;
 using Unity.Cinemachine;
 

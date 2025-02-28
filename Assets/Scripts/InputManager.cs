@@ -1,3 +1,6 @@
+/*
+This script is largely inspired by InputManager scripts found in the first two lab guides, with some slight modifications.
+*/
 using UnityEngine;
 using UnityEngine.Events;
 
